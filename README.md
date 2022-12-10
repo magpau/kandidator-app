@@ -1,4 +1,4 @@
-# Python: Getting Started
+# Kandidator web application
 
 A barebones Django app, which can easily be deployed to Heroku.
 
